@@ -12,3 +12,6 @@ Solves a wordbrain grid given the input file containing the following lines:
 This program runs on python 2.x
 The command to run the program on the command line is
 python wordbrain-solver.py input.txt
+
+Copyright 2016, Howard Zeng
+All rights reserved
